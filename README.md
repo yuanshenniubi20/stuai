@@ -33,8 +33,7 @@
 
 3.单独的自动维持视频播放便于学习的功能
 
-## 下载地址[Release](https://github.com/yuanshenniubi20/stuai/releases/tag/v3.9)
-
+## 下载地址:[Release](https://github.com/yuanshenniubi20/STUAI/releases/tag/v3.9)
 
 ## 目录结构
 
@@ -66,7 +65,7 @@ stuai-release/
 
 | 提供商 | 说明 |
 |--------|------|
-| **[DeepSeek](https://platform.deepseek.com)** | 推荐使用，测试稳定，中文答题准确率高，成本低 |
+| **[DeepSeek](https://platform.deepseek.com)** | 推荐使用，测试稳定，中文答题准确率高，成本低（每100题约0.1元） |
 | [豆包](https://console.volcengine.com/ark) | 支持多模态（图片题目），需额外配置 |
 
 > DeepSeek API 为**按量付费服务**（约 ¥1/百万 token）。  
